@@ -42,7 +42,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto px-4 flex justify-between items-center">
         <a href="#home" className="text-xl md:text-2xl font-bold text-gradient">
-          Aditya<span className="text-tech-light">.</span>
+          Prince<span className="text-tech-light">.</span>
         </a>
 
         {/* Desktop Navigation */}
@@ -66,7 +66,7 @@ const Navbar = () => {
           className="hidden md:flex border border-tech-purple/30 text-tech-purple hover:text-tech-light hover:bg-tech-purple/80"
           asChild
         >
-          <a href="/AdityaUpdatedCv.pdf" download>
+          <a href="/princeupdatedcv.pdf" download>
             Download Resume
           </a>
         </Button>

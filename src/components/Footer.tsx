@@ -52,7 +52,7 @@ const Footer = () => {
               <Github size={18} />
             </a>
             <a 
-              href="https://www.linkedin.com/in/aditya-raj-4081782b9/" 
+              href="https://www.linkedin.com/in/prince-kumar-209634250/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-tech-light/70 hover:text-tech-light transition-colors"
@@ -61,7 +61,7 @@ const Footer = () => {
               <Linkedin size={18} />
             </a>
             <a 
-              href="mailto:adityasingh841238@gmail.com"
+              href="mailto:princesri148@gmail.com"
               className="text-tech-light/70 hover:text-tech-light transition-colors"
               aria-label="Email"
             >
@@ -71,7 +71,7 @@ const Footer = () => {
         </div>
         
         <div className="mt-6 text-center text-tech-light/50 text-sm">
-          <p>© {currentYear} Aditya Raj. All rights reserved.</p>
+          <p>© {currentYear} Prince Kumar. All rights reserved.</p>
         </div>
       </div>
     </footer>

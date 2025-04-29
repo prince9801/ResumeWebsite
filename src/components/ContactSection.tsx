@@ -158,7 +158,7 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <p className="text-sm text-tech-light/70 mb-1">Email</p>
-                      <p className="text-tech-light">adityasingh841238@gmail.com</p>
+                      <p className="text-tech-light">princesri148@gmail.com</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
@@ -167,7 +167,7 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <p className="text-sm text-tech-light/70 mb-1">Phone</p>
-                      <p className="text-tech-light">+91 7050969525</p>
+                      <p className="text-tech-light">+91 8084801063</p>
                     </div>
                   </div>
                 </div>
@@ -177,7 +177,7 @@ const ContactSection = () => {
                 <p className="text-sm text-tech-light/70 mb-4">Find me on</p>
                 <div className="flex gap-4">
                   <a
-                    href="https://github.com/ajaditya00"
+                    href="https://github.com/prince9801"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-tech-dark/50 p-3 rounded-full hover:bg-tech-purple/20 transition-colors"
@@ -186,7 +186,7 @@ const ContactSection = () => {
                     <span className="sr-only">GitHub</span>
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/aditya-raj-4081782b9/"
+                    href="https://www.linkedin.com/in/prince-kumar-209634250/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-tech-dark/50 p-3 rounded-full hover:bg-tech-purple/20 transition-colors"

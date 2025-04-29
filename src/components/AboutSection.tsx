@@ -31,7 +31,7 @@ const AboutSection = () => {
               <div className="aspect-square w-full overflow-hidden rounded-lg bg-gradient-to-br from-tech-blue/20 via-tech-purple/20 to-tech-pink/20 flex items-center justify-center">
                 <img
                   src={HerokaPhoto}
-                  alt="Aditya Raj"
+                  alt="Prince Kumar"
                   className="w-full h-full object-cover"
                 />
               </div>
@@ -47,7 +47,7 @@ const AboutSection = () => {
           >
             <h3 className="text-xl font-semibold text-tech-light">Who I Am</h3>
             <p className="text-tech-light/80">
-              I'm Aditya Raj, a Software Engineer and Data Scientist based in Siwan, Bihar. With a background in Computer Science and Engineering (CGPA 6.23), 
+              I'm Prince Kumar, a Software Engineer and Data Scientist based in Chhapra, Bihar. With a background in Computer Science and Engineering (CGPA 7.0), 
               I specialize in creating efficient and scalable applications that solve real-world problems.
             </p>
             <p className="text-tech-light/80">
@@ -64,7 +64,7 @@ const AboutSection = () => {
               <div className="space-y-3">
                 <div>
                   <p className="font-medium text-tech-light">Bachelor of Technology - Computer Science and Engineering</p>
-                  <p className="text-tech-light/70">Lovely Professional University, Jalandhar,Punjab | CGPA 6.23 | Aug 2022 - Present</p>
+                  <p className="text-tech-light/70">Lovely Professional University, Jalandhar,Punjab | CGPA 7.0 | Aug 2022 - Present</p>
                 </div>
                 <div>
                   <p className="font-medium text-tech-light">Senior Secondary</p>

@@ -26,7 +26,7 @@ const HeroSection = () => {
             transition={{ delay: 0.3 }}
             className="text-4xl md:text-6xl font-bold mb-4 text-tech-light"
           >
-            Aditya Raj
+            Prince Kumar
           </motion.h1>
           
           <motion.h2
@@ -77,7 +77,7 @@ const HeroSection = () => {
             className="flex gap-4 mt-8"
           >
             <a 
-              href="https://github.com/ajaditya00/" 
+              href="https://github.com/prince9801" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-tech-light/70 hover:text-tech-light transition-colors"
@@ -87,7 +87,7 @@ const HeroSection = () => {
             </a>
             
             <a 
-              href="https://www.linkedin.com/in/aditya-raj-4081782b9/" 
+              href="https://www.linkedin.com/in/prince-kumar-209634250/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-tech-light/70 hover:text-tech-light transition-colors"
